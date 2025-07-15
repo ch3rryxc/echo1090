@@ -1,0 +1,4 @@
+FLIGHTS_URL = 'http://192.168.0.117:8754/flights.json'
+HOST = '0.0.0.0'
+PORT = '8080'
+START_COORDS = (53.195, 50.100)
